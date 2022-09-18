@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("hey!\n");
+    printf("hey!!\n");
     //first branch check
 
     return 0;
